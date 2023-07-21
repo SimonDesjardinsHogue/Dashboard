@@ -631,7 +631,7 @@
       "targets": [
         {
           "exemplar": true,
-          "expr": "snsky_metrics_leaderSlots",
+          "expr": "bots_metrics_leaderSlots",
           "interval": "",
           "legendFormat": "Leader Slots",
           "refId": "A"
@@ -4269,8 +4269,8 @@
     ]
   },
   "timezone": "",
-  "title": "SNSKY Pool",
-  "uid": "SNSKYPOOL",
+  "title": "bots Pool",
+  "uid": "botsPOOL",
   "version": 5,
   "weekStart": ""
 }
